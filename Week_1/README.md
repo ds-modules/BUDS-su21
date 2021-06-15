@@ -1,2 +1,2 @@
-# BUDS-su20
-Materials for the Berkeley Unboxing Data Science (BUDS) summer 2020 program.
+# BUDS-su21
+Materials for the Berkeley Unboxing Data Science (BUDS) summer 2021 program.
